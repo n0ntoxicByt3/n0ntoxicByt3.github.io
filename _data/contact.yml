@@ -7,17 +7,19 @@
 -
   type: github
   icon: 'fab fa-github-alt'
+  links: https://github.com/n0ntoxicByt3 
 -
   type: twitter
   icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+  links: https://twitter.com/n0ntoxicByt3 
+# -
+#   type: email
+#   icon: 'fas fa-envelope'
+#   noblank: true            # open link in current tab
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
